@@ -1,3 +1,3 @@
 # Travaux_Pratique
 travaux pratique git
-Bonjour je suis Ruth AHOUEYA 
+Hello je suis Ruth AHOUEYA et j'adore prendre du yaourt
